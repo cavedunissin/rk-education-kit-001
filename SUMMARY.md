@@ -3,7 +3,7 @@
 * [洞洞么教學材料包 主頁](README.md)
 * [Untitled](untitled/README.md)
   * [LED模組](untitled/linkit7697_led.md)
-  * [LED模組\(三色\)](untitled/linkit7697_rgbled.md)
+  * [LED模組（三色）](untitled/linkit7697_rgbled.md)
   * [按鈕模組](untitled/linkit7697_button.md)
   * [旋轉電位計模組](untitled/linkit7697_rotation.md)
   * [光敏模組](untitled/linkit7697_light.md)
