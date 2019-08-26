@@ -14,7 +14,9 @@
 
 **紅外線偵測模組**是**數位訊號**輸入， 可以接「D0 ~ D13」的 LinkIt 7697 NANO Breakout訊號端上。 本範例連接到「**D2**」。
 
+{% hint style="info" %}
 紅外線偵測模組是利用光線對顏色不同的反射率， 判斷感測器的輸入端是0或者是1，進而判斷是黑線或是白線。
+{% endhint %}
 
 ![](../.gitbook/assets/linkit7697_irsesnor_01.png)
 
