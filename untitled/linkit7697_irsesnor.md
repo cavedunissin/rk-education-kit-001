@@ -1,10 +1,11 @@
 # 紅外線偵測模組
 
+![](../.gitbook/assets/linkit7697_irsesnor_00.png)
+
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「紅外線偵測模組」, 每秒讀取紅外線偵測模組偵測到白線或黑線。  
-此**紅外線偵測模組**包含於「**Education Kit for Linkit 7697**」內。  
--紅外線偵測模組圖-
+此**紅外線偵測模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖
 

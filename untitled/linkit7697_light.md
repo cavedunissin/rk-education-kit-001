@@ -1,10 +1,11 @@
 # 光敏模組
 
+![](../.gitbook/assets/linkit7697_light_00.jpg)
+
 ## 專案說明
 
-使用「LinkIt 7697 NANO Breakout」連接「光敏模組」, 每0.2秒讀取光敏模組數值。  
-此**光敏模組**包含於「**Education Kit for Linkit 7697**」內。  
--光敏模組模組圖-
+使用「LinkIt 7697 NANO Breakout」連接「光敏模組」, 每0.5秒讀取光敏模組數值。  
+此**光敏模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖
 
@@ -18,7 +19,7 @@
 
 ## 積木畫布
 
-每0.2秒鐘會讀取光敏模組一次， 並顯示在序列埠監控視窗上。
+每0.5秒鐘會讀取光敏模組一次， 並顯示在序列埠監控視窗上。
 
 ![](../.gitbook/assets/linkit7697_light_02.png)
 

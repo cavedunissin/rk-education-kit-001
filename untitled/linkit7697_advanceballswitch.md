@@ -1,10 +1,11 @@
 # 滾珠開關模組
 
+![](../.gitbook/assets/linkit7697_advanceballswitch_00.png)
+
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「滾珠開關模組」, 每0.5秒讀取滾珠開關模組開啟或關閉。  
-此**滾珠開關模組**包含於「**Education Kit for Linkit 7697**」內。  
--滾珠開關模組圖-
+此**滾珠開關模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖
 

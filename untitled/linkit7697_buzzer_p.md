@@ -1,10 +1,11 @@
 # 有源蜂鳴器模組
 
+![](../.gitbook/assets/linkit7697_buzzer_p_00.png)
+
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「有源蜂鳴器模組」, 每一秒控制有源蜂鳴器模組發出聲音和靜音 。  
-此**有源蜂鳴器模組**包含於「**Education Kit for Linkit 7697**」內 。  
--有源蜂鳴器模組-
+此**有源蜂鳴器模組**包含於「**Education Kit for Linkit 7697**」內 。
 
 ## 電路圖
 

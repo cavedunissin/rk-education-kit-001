@@ -1,10 +1,11 @@
 # 按鈕模組
 
+![](../.gitbook/assets/linkit7697_button_00.png)
+
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「按鈕模組」, 讀取按鈕模組按下或放開的狀態。  
-此**按鈕模組**包含於「**Education Kit for Linkit 7697**」內。  
--按鈕模組圖-
+此**按鈕模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖
 

@@ -1,10 +1,11 @@
 # 熱敏（溫度）模組
 
+![](../.gitbook/assets/linkit7697_temperature_00.png)
+
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「熱敏（溫度）模組」, 每0.5秒讀取熱敏（溫度）模組的溫度訊號比例。  
-此**熱敏（溫度）模組**包含於「**Education Kit for Linkit 7697**」內。  
--熱敏（溫度）模組圖-
+此**熱敏（溫度）模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖
 

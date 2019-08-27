@@ -1,10 +1,11 @@
 # DHT11溫溼度感測器模組
 
+![](../.gitbook/assets/linkit7697_dht11_00.png)
+
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「DHT11溫溼度感測器模組」, 每1秒讀取DHT11溫溼度感測器模組溫度和濕度數值 。  
-此**DHT11溫溼度感測器模組**包含於「**Education Kit for Linkit 7697**」內。  
-- DHT11溫溼度感測器模組圖-
+此**DHT11溫溼度感測器模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖
 
