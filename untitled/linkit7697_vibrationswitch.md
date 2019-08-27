@@ -4,7 +4,7 @@
 
 ## 專案說明
 
-使用「LinkIt 7697 NANO Breakout」連接「震動開關模組」, 紀錄震動次數。  
+使用「LinkIt 7697 NANO Breakout」連接「震動開關模組」， 紀錄震動次數。  
 此**震動開關模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖

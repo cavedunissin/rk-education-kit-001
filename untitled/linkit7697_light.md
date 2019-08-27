@@ -4,7 +4,7 @@
 
 ## 專案說明
 
-使用「LinkIt 7697 NANO Breakout」連接「光敏模組」, 每0.5秒讀取光敏模組數值。  
+使用「LinkIt 7697 NANO Breakout」連接「光敏模組」， 每0.5秒讀取光敏模組數值。  
 此**光敏模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖

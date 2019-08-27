@@ -4,7 +4,7 @@
 
 ## 專案說明
 
-使用「LinkIt 7697 NANO Breakout」連接「LED模組」, 每兩秒鐘LED模組閃爍一次。   
+使用「LinkIt 7697 NANO Breakout」連接「LED模組」， 每兩秒鐘LED模組閃爍一次。   
 此**LED模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖

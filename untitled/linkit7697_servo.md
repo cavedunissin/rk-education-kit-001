@@ -4,7 +4,7 @@
 
 ## 專案說明
 
-使用「LinkIt 7697 NANO Breakout」連接「伺服機」,控制伺服機順時針轉和逆時針轉。  
+使用「LinkIt 7697 NANO Breakout」連接「伺服機」，控制伺服機順時針轉和逆時針轉。  
 此**伺服機**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖

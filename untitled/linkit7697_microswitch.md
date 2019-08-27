@@ -4,7 +4,7 @@
 
 ## 專案說明
 
-使用「LinkIt 7697 NANO Breakout」連接「微動開關模組」, 每0.2秒讀取微動開關模組按下和放開。  
+使用「LinkIt 7697 NANO Breakout」連接「微動開關模組」,，每0.2秒讀取微動開關模組按下和放開。  
 此**微動開關模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖

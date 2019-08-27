@@ -4,7 +4,7 @@
 
 ## 專案說明
 
-使用「LinkIt 7697 NANO Breakout」連接「旋轉電位計模組」, 讀取旋轉電位計模組的數值變化 。  
+使用「LinkIt 7697 NANO Breakout」連接「旋轉電位計模組」， 讀取旋轉電位計模組的數值變化 。  
 此**旋轉電位計模組**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖

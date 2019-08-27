@@ -4,7 +4,7 @@
 
 ## 專案說明
 
-使用「LinkIt 7697 NANO Breakout」連接「LED模組\(三色\)」,控制LED模組\(三色\) 每0.5秒依序發出紅光、綠光和藍光。  
+使用「LinkIt 7697 NANO Breakout」連接「LED模組\(三色\)」，控制LED模組\(三色\) 每0.5秒依序發出紅光、綠光和藍光。  
 此**LED模組\(三色\)**包含於「**Education Kit for Linkit 7697**」內。
 
 ## 電路圖
