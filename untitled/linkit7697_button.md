@@ -5,9 +5,9 @@
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「按鈕模組」， 讀取按鈕模組按下或放開的狀態。  
-此**按鈕模組**包含於「**Education Kit for Linkit 7697**」內。
+此**按鈕模組**包含於「[**洞洞么教學材料包**](https://www.robotkingdom.com.tw/product/rk-education-kit-001/) 」內。
 
-## 電路圖
+## LinkIt 7697 電路圖
 
 **•**	[**LinkIt 7697**  
 ](https://www.robotkingdom.com.tw/product/linkit-7697/)**•	LinkIt 7697 NANO Breakout  
@@ -17,7 +17,7 @@
 
 ![](../.gitbook/assets/linkit7697_button_01.png)
 
-## 積木畫布
+## BlocklyDuino 積木畫布
 
 每0.2秒鐘會讀取按鈕模組狀態一次， 並可透過序列埠監控視窗看到按鈕模組的狀態 。
 
@@ -25,7 +25,7 @@
 
 ![](../.gitbook/assets/linkit7697_button_03.png)
 
-產生出的 Arduino 程式如下：
+## Arduino 程式
 
 ```text
 void setup()

@@ -5,9 +5,9 @@
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「超音波測距感測器」， 每0.5秒讀取超音波測距感測器所測到的距離。  
-此**超音波測距感測器**包含於「**Education Kit for Linkit 7697**」內。
+此**超音波測距感測器**包含於「[**洞洞么教學材料包**](https://www.robotkingdom.com.tw/product/rk-education-kit-001/) 」內。
 
-## 電路圖
+## LinkIt 7697 電路圖
 
 **•**	[**LinkIt 7697**  
 ](https://www.robotkingdom.com.tw/product/linkit-7697/)**•	LinkIt 7697 NANO Breakout  
@@ -21,7 +21,7 @@
 
 ![](../.gitbook/assets/linkit7697_ultrasonic_01.png)
 
-## 積木畫布
+## BlocklyDuino 積木畫布
 
 每0.5秒鐘會讀取一次超音波測距感測器所測得的距離。
 
@@ -29,7 +29,7 @@
 
 ![](../.gitbook/assets/linkit7697_ultrasonic_03.png)
 
-產生出的 Arduino 程式如下：
+## Arduino 程式
 
 ```text
 #include <Ultrasonic.h>

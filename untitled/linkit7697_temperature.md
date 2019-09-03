@@ -5,9 +5,9 @@
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「熱敏（溫度）模組」，每0.5秒讀取熱敏（溫度）模組的溫度訊號比例。  
-此**熱敏（溫度）模組**包含於「**Education Kit for Linkit 7697**」內。
+此**熱敏（溫度）模組**包含於「[**洞洞么教學材料包**](https://www.robotkingdom.com.tw/product/rk-education-kit-001/) 」內。
 
-## 電路圖
+## LinkIt 7697 電路圖
 
 **•**	[**LinkIt 7697**  
 ](https://www.robotkingdom.com.tw/product/linkit-7697/)**•	LinkIt 7697 NANO Breakout  
@@ -17,7 +17,7 @@
 
 ![](../.gitbook/assets/linkit7697_temperature_01.png)
 
-## 積木畫布
+## BlocklyDuino 積木畫布
 
 每0.5秒鐘讀取熱敏（溫度）模組溫度的類比及數位資訊一次 。
 
@@ -25,7 +25,7 @@
 
 ![](../.gitbook/assets/linkit7697_temperature_03.png)
 
-產生出的 Arduino 程式如下：
+## Arduino 程式
 
 ```text
 

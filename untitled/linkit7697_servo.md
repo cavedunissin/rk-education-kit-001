@@ -5,9 +5,9 @@
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「伺服機」，控制伺服機順時針轉和逆時針轉。  
-此**伺服機**包含於「**Education Kit for Linkit 7697**」內。
+此**伺服機**包含於「[**洞洞么教學材料包**](https://www.robotkingdom.com.tw/product/rk-education-kit-001/) 」內。
 
-## 電路圖
+## LinkIt 7697 電路圖
 
 **•**	[**LinkIt 7697**  
 ](https://www.robotkingdom.com.tw/product/linkit-7697/)**•	LinkIt 7697 NANO Breakout  
@@ -17,13 +17,13 @@
 
 ![](../.gitbook/assets/linkit7697_servo_01.png)
 
-## 積木畫布
+## BlocklyDuino 積木畫布
 
 控制伺服機順時針旋轉及逆時旋轉。
 
 ![](../.gitbook/assets/linkit7697_servo_02.png)
 
-產生出的 Arduino 程式如下：
+## Arduino 程式
 
 ```text
 #include <Servo.h>

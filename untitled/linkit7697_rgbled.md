@@ -5,9 +5,9 @@
 ## 專案說明
 
 使用「LinkIt 7697 NANO Breakout」連接「LED模組\(三色\)」，控制LED模組\(三色\) 每0.5秒依序發出紅光、綠光和藍光。  
-此**LED模組\(三色\)**包含於「**Education Kit for Linkit 7697**」內。
+此**LED模組\(三色\)**包含於「[**洞洞么教學材料包**](https://www.robotkingdom.com.tw/product/rk-education-kit-001/) 」內。
 
-## 電路圖
+## LinkIt 7697 電路圖
 
 **•**	[**LinkIt 7697**](https://www.robotkingdom.com.tw/product/linkit-7697/)  
 **•	LinkIt 7697 NANO Breakout  
@@ -22,25 +22,15 @@
 
 ![](../.gitbook/assets/linkit7697_rgbled_02.png)
 
-## 積木畫布
+## BlocklyDuino 積木畫布
 
 透過控制數位腳位的高低電位來使 RBG 三色亮或暗。 此範例使用的是共陽極的 RGB 全彩 LED， 所以該顏色（R / B / G）對應的腳位（D2／D3／D4）為低電位狀態時， 電流才會流過並發亮。
 
 ![](../.gitbook/assets/linkit7697_rgbled_03.png)
 
-產生出的 Arduino 程式如下：
+## Arduino 程式
 
 ```text
-/*
- * Generated using BlocklyDuino:
- *
- * https://github.com/MediaTek-Labs/BlocklyDuino-for-LinkIt
- *
- * Date: Mon, 08 Apr 2019 08:35:56 GMT
- */
-
-
-
 void setup()
 {
 
