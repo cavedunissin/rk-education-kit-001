@@ -1,6 +1,6 @@
 # DHT11溫溼度感測器模組
 
-![](../.gitbook/assets/linkit7697_dht11_00.png)
+![](../../.gitbook/assets/linkit7697_dht11_00.png)
 
 ## 專案說明
 
@@ -15,15 +15,15 @@
 
 **DHT11溫溼度感測器模組**是**數位訊號**輸出， 可以接「D2」的 LinkIt 7697 NANO Breakout訊號端上。 本範例連接到「**D2**」。
 
-![](../.gitbook/assets/linkit7697_dht11_01.png)
+![](../../.gitbook/assets/linkit7697_dht11_01.png)
 
 ## BlocklyDuino 積木畫布
 
 每秒鐘讀取DHT溫溼度感測器的溫度和濕度一次，並顯示在序列埠監控視窗上。
 
-![](../.gitbook/assets/linkit7697_dht11_02.png)
+![](../../.gitbook/assets/linkit7697_dht11_02.png)
 
-![](../.gitbook/assets/linkit7697_dht11_03.png)
+![](../../.gitbook/assets/linkit7697_dht11_03.png)
 
 ## Arduino 程式
 

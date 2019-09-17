@@ -1,6 +1,6 @@
 # 有源蜂鳴器模組
 
-![](../.gitbook/assets/linkit7697_buzzer_p_00.png)
+![](../../.gitbook/assets/linkit7697_buzzer_p_00.png)
 
 ## 專案說明
 
@@ -19,13 +19,13 @@
 蜂鳴器分為「有源蜂鳴器」及「無源蜂鳴器」，「有源蜂鳴器」僅能發出單一頻率的聲音；「無源蜂鳴器」可依據不同的頻率發出不同聲調的聲音。
 {% endhint %}
 
-![](../.gitbook/assets/linkit7697_buzzer_p_01.png)
+![](../../.gitbook/assets/linkit7697_buzzer_p_01.png)
 
 ## BlocklyDuino 積木畫布
 
 每一秒控制有源蜂鳴器模組發出聲音和靜音。
 
-![](../.gitbook/assets/linkit7697_buzzer_p_02.png)
+![](../../.gitbook/assets/linkit7697_buzzer_p_02.png)
 
 ## Arduino 程式
 

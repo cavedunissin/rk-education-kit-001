@@ -1,6 +1,6 @@
 # LED模組
 
-![](../.gitbook/assets/linkit7697_led_00.png)
+![](../../.gitbook/assets/linkit7697_led_00.png)
 
 ## 專案說明
 
@@ -15,13 +15,13 @@
 
 **LED模組**是**數位/類比訊號**輸出， 可以接「D0 ~ D13」的 LinkIt 7697 NANO Breakout訊號端上。 本範例連接到「**D8**」。
 
-![](../.gitbook/assets/linkit7697_led_01.png)
+![](../../.gitbook/assets/linkit7697_led_01.png)
 
 ## BlocklyDuino 積木畫布
 
 將8號腳位的電位拉低、拉高，每兩秒鐘會切換LED的亮暗一次。 
 
-![](../.gitbook/assets/linkit7697_led_02.png)
+![](../../.gitbook/assets/linkit7697_led_02.png)
 
 
 

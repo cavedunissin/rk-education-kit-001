@@ -1,6 +1,6 @@
 # 熱敏（溫度）模組
 
-![](../.gitbook/assets/linkit7697_temperature_00.png)
+![](../../.gitbook/assets/linkit7697_temperature_00.png)
 
 ## 專案說明
 
@@ -15,15 +15,15 @@
 
 **熱敏（溫度）模組**是**數位/類比訊號**輸出， 可以接「D0 ~ D13、A0~A3」的 LinkIt 7697 NANO Breakout訊號端上。 本範例連接到「**D5**」、「**A0**」。
 
-![](../.gitbook/assets/linkit7697_temperature_01.png)
+![](../../.gitbook/assets/linkit7697_temperature_01.png)
 
 ## BlocklyDuino 積木畫布
 
 每0.5秒鐘讀取熱敏（溫度）模組溫度的類比及數位資訊一次 。
 
-![](../.gitbook/assets/linkit7697_temperature_02.png)
+![](../../.gitbook/assets/linkit7697_temperature_02.png)
 
-![](../.gitbook/assets/linkit7697_temperature_03.png)
+![](../../.gitbook/assets/linkit7697_temperature_03.png)
 
 ## Arduino 程式
 

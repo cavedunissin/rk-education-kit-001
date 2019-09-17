@@ -1,6 +1,6 @@
 # 紅外線偵測模組
 
-![](../.gitbook/assets/linkit7697_irsesnor_00.png)
+![](../../.gitbook/assets/linkit7697_irsesnor_00.png)
 
 ## 專案說明
 
@@ -19,15 +19,15 @@
 紅外線偵測模組是利用光線對顏色不同的反射率， 判斷感測器的輸入端是0或者是1，進而判斷是黑線或是白線。
 {% endhint %}
 
-![](../.gitbook/assets/linkit7697_irsesnor_01.png)
+![](../../.gitbook/assets/linkit7697_irsesnor_01.png)
 
 ## BlocklyDuino 積木畫布
 
 每秒鐘讀取紅外線偵測模組偵測白線或黑線一次 ，並顯示在序列埠監控視窗上。
 
-![](../.gitbook/assets/linkit7697_irsesnor_02.png)
+![](../../.gitbook/assets/linkit7697_irsesnor_02.png)
 
-![](../.gitbook/assets/linkit7697_irsesnor_03.png)
+![](../../.gitbook/assets/linkit7697_irsesnor_03.png)
 
 ## Arduino 程式
 

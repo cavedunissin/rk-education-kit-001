@@ -1,6 +1,6 @@
 # 伺服機
 
-![](../.gitbook/assets/linkit7697_servo_00.png)
+![](../../.gitbook/assets/linkit7697_servo_00.png)
 
 ## 專案說明
 
@@ -15,13 +15,13 @@
 
 **伺服機**是**脈衝寬度調變\(Pulse Width Modulation\)訊號**輸出， 可以接「D0 ~ D13」的 LinkIt 7697 NANO Breakout訊號端上。 本範例連接到「**D2**」。
 
-![](../.gitbook/assets/linkit7697_servo_01.png)
+![](../../.gitbook/assets/linkit7697_servo_01.png)
 
 ## BlocklyDuino 積木畫布
 
 控制伺服機順時針旋轉及逆時旋轉。
 
-![](../.gitbook/assets/linkit7697_servo_02.png)
+![](../../.gitbook/assets/linkit7697_servo_02.png)
 
 ## Arduino 程式
 

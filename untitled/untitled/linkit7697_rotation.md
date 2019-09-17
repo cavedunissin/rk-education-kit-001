@@ -1,6 +1,6 @@
 # 旋轉電位計模組
 
-![](../.gitbook/assets/linkit7697_rotation_00.png)
+![](../../.gitbook/assets/linkit7697_rotation_00.png)
 
 ## 專案說明
 
@@ -15,15 +15,15 @@
 
 **旋轉電位計模組**是**類比訊號**讀取， 可以接「A0 ~ A3」的 LinkIt 7697 NANO Breakout訊號端上，「A0 ~ A3」在程式代表「14 ~ 17」。 本範例連接到「**A0**」。
 
-![](../.gitbook/assets/linkit7697_rotation_01.png)
+![](../../.gitbook/assets/linkit7697_rotation_01.png)
 
 ## BlocklyDuino 積木畫布
 
 每0.5秒鐘會讀取旋轉電位計模組的電位一次， 並顯示在序列埠監控視窗上。
 
-![](../.gitbook/assets/linkit7697_rotation_02.png)
+![](../../.gitbook/assets/linkit7697_rotation_02.png)
 
-![](../.gitbook/assets/linkit7697_rotation_03.png)
+![](../../.gitbook/assets/linkit7697_rotation_03.png)
 
 ## Arduino 程式
 

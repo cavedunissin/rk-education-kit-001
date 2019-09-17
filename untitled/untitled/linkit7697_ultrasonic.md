@@ -1,6 +1,6 @@
 # 超音波測距感測器
 
-![](../.gitbook/assets/linkit7697_ultrasonic_00.png)
+![](../../.gitbook/assets/linkit7697_ultrasonic_00.png)
 
 ## 專案說明
 
@@ -19,15 +19,15 @@
 超音波測距感測器是由發射器、接收器以及控制電路所組成，若待測物體距離太遠，或者發射器、接收器其中一個被遮蔽，皆會導致量測距離結果錯誤。
 {% endhint %}
 
-![](../.gitbook/assets/linkit7697_ultrasonic_01.png)
+![](../../.gitbook/assets/linkit7697_ultrasonic_01.png)
 
 ## BlocklyDuino 積木畫布
 
 每0.5秒鐘會讀取一次超音波測距感測器所測得的距離。
 
-![](../.gitbook/assets/linkit7697_ultrasonic_02.png)
+![](../../.gitbook/assets/linkit7697_ultrasonic_02.png)
 
-![](../.gitbook/assets/linkit7697_ultrasonic_03.png)
+![](../../.gitbook/assets/linkit7697_ultrasonic_03.png)
 
 ## Arduino 程式
 

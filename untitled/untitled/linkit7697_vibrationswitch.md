@@ -1,6 +1,6 @@
 # 震動開關模組
 
-![](../.gitbook/assets/linkit7697_vibrationswitch_00.png)
+![](../../.gitbook/assets/linkit7697_vibrationswitch_00.png)
 
 ## 專案說明
 
@@ -15,15 +15,15 @@
 
 **震動開關模組**是**數位訊號**讀取， 可以接「D0 ~ D13」的 LinkIt 7697 NANO Breakout訊號端上。 本範例連接到「**D2**」。
 
-![](../.gitbook/assets/linkit7697_vibrationswitch_01.png)
+![](../../.gitbook/assets/linkit7697_vibrationswitch_01.png)
 
 ## BlocklyDuino 積木畫布
 
 計算震動開關模組目前累計震動次數。
 
-![](../.gitbook/assets/linkit7697_vibrationswitch_02.png)
+![](../../.gitbook/assets/linkit7697_vibrationswitch_02.png)
 
-![](../.gitbook/assets/linkit7697_vibrationswitch_03.png)
+![](../../.gitbook/assets/linkit7697_vibrationswitch_03.png)
 
 ## Arduino 程式
 

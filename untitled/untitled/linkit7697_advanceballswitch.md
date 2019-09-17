@@ -1,6 +1,6 @@
 # 滾珠開關模組
 
-![](../.gitbook/assets/linkit7697_advanceballswitch_00.png)
+![](../../.gitbook/assets/linkit7697_advanceballswitch_00.png)
 
 ## 專案說明
 
@@ -15,15 +15,15 @@
 
 **滾珠開關模組**是**數位**輸入， 可以接「D0 ~ D13」的 LinkIt 7697 NANO Breakout訊號端上。 本範例連接到「**D2**」。
 
-![](../.gitbook/assets/linkit7697_advanceballswitch_01.png)
+![](../../.gitbook/assets/linkit7697_advanceballswitch_01.png)
 
 ## BlocklyDuino 積木畫布
 
 每0.5秒鐘讀取滾珠開關模組狀態，並顯示在序列埠監控視窗 \(搖動滾珠開關模組時，可以感覺到有滾珠在移動\)。
 
-![](../.gitbook/assets/linkit7697_advanceballswitch_02.png)
+![](../../.gitbook/assets/linkit7697_advanceballswitch_02.png)
 
-![](../.gitbook/assets/linkit7697_advanceballswitch_03.png)
+![](../../.gitbook/assets/linkit7697_advanceballswitch_03.png)
 
 ## Arduino 程式
 
